@@ -130,4 +130,5 @@ dmypy.json
 
 
 ###################
-training-data/*
+.DS_Store
+training-data/train-*
